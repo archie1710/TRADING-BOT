@@ -1,0 +1,5 @@
+INFO:root:{}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{}
+2026-01-01 20:06:30,657 - ERROR - MARKET ORDER FAILED: APIError(code=-2015): Invalid API-key, IP, or permissions for action
